@@ -18,13 +18,13 @@
 
 검색어 자동 완성 기능은 데이터 수집 서비스와 데이터 질의 서비스로 나뉘게 됩니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/03868d70-22f4-4124-bfcc-0b8801b79f3d/fc4de79f-930a-4ac6-a388-5e2c0dedf64e/Untitled.png)
+![image](https://github.com/this-is-spear/hello-automatic-completion-keyword/assets/92219795/41f12297-6752-49b9-9f7c-ce117c961bfd)
 
 ## 데이터 수집 서비스
 
 데이터 수집 서비스는 검색어의 빈도수를 측정하게 되는데, 빈도수 데이터를 정제해 IO 횟수를 줄이는 게 관건입니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/03868d70-22f4-4124-bfcc-0b8801b79f3d/630f7deb-2e51-40a7-9831-8cdd3f868746/Untitled.png)
+![image](https://github.com/this-is-spear/hello-automatic-completion-keyword/assets/92219795/041c7b90-9d11-40a7-afbd-8e5cba879c62)
 
 ## 데이터 질의 서비스
 
